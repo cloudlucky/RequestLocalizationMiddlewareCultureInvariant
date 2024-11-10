@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "All",
+    "Projects": [
+      {
+        "Path": "src\\DotNet8\\DotNet8.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\DotNet7\\DotNet7.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\DotNet6\\DotNet6.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
